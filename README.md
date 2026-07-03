@@ -83,13 +83,13 @@ Business Recommendation
 ## Repository Structure
 
 docs:-
-[Geldium_Case_Study.pdf](https://github.com/user-attachments/files/29636262/Geldium_Case_Study.pdf)
+Geldium_Case_Study.pdf(https://github.com/user-attachments/files/29636262/Geldium_Case_Study.pdf)
 
-[EDA_SummaryReport.pdf](https://github.com/user-attachments/files/29636273/EDA_SummaryReport.pdf)
+EDA_SummaryReport.pdf(https://github.com/user-attachments/files/29636273/EDA_SummaryReport.pdf)
 
-[Updated_Business_Summary_Report_Template.pdf](https://github.com/user-attachments/files/29636278/Updated_Business_Summary_Report_Template.pdf)
+Updated_Business_Summary_Report_Template.pdf(https://github.com/user-attachments/files/29636278/Updated_Business_Summary_Report_Template.pdf)
 
-[AI Collections (1).pptx](https://github.com/user-attachments/files/29636288/AI.Collections.1.pptx)
+AI Collections (1).pptx(https://github.com/user-attachments/files/29636288/AI.Collections.1.pptx)
 
 certificate:-
 [certificate.pdf](https://github.com/user-attachments/files/29636299/certificate.pdf)
